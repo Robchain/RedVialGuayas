@@ -1,0 +1,5 @@
+export {getCantonId} from "./Dasboard/canton"
+export {Api, GetCanton} from "./Dasboard/inicio"
+export {getCarretera,getCarreteraId} from "./Dasboard/carretera"
+export {GetTipoDeVia} from "./Dasboard/TipoDeVIas"
+export {GetTramos, GetTramosId} from "./Dasboard/tramos"
